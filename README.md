@@ -60,7 +60,7 @@ sudo ufw allow 8888
 ### Step 4 - start the wallet generator 
 
 ```
-bun wallet_generator.ts
+./wallet-generator.sh
 ```
 
 
