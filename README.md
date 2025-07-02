@@ -12,7 +12,7 @@
 ### Step 1 - update system and install requirements 
 
 ```
-apt install -y sudo
+sudo apt install -y sudo
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl git build-essential
 ```
