@@ -14,7 +14,7 @@
 ```
 sudo apt install -y sudo
 sudo apt update && sudo apt upgrade -y
-sudo apt install -y curl git build-essential
+sudo apt install -y curl unzip git build-essential
 ```
 
 - Install bun and reload profile 
