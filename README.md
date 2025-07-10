@@ -148,6 +148,8 @@ git pull
 ```
 ./run.sh 
 ```
+![Image 7-10-25 at 11 06 AM](https://github.com/user-attachments/assets/54355757-abb0-4c7d-88df-0c1935026417)
+
 - if that doesn't start it then use this:
    
 ```
