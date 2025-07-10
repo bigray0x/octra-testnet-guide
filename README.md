@@ -148,7 +148,13 @@ git pull
 ```
 ./run.sh 
 ```
-
+- if that doesn't start it then use this:
+   
+```
+python3 -m venv venv
+source venv/bin/activate
+python3 cli.py
+```
 
 
 
