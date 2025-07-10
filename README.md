@@ -107,7 +107,6 @@ cp wallet.json.example wallet.json
 nano wallet.json
 ```
 - Replace following values:
-- 
 private-key-here: Privatekey with B64 format
 ```octxxxxxxxx...```: Octra address starting with oct...
 
@@ -129,6 +128,26 @@ Send transactions to my address: ``` octFR5MV1CkXnrREkcJPzLfAgtp8tinosWJvS75Ux6K
 Use Octra Explorer to find more octra addresse
 
 Always share your feedback about the week's task in discord.
+
+### Encrypt Transactions 
+
+- First update the client:
+
+```
+cd octra_pre_client
+```
+```
+source venv/bin/activate
+```
+```
+git pull
+```
+
+- Rerun the updated CLI to encrypt tokens.
+
+```
+./run.sh 
+```
 
 
 
